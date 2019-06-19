@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6e5ae757dd2482ed6e66940f329b99eb.js"
+  "/precache-manifest.91838f8ecd9c622293a7e9aee0fad005.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mqttdisplayer"});
