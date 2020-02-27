@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ec6cc37077e08023f24d",
-    "url": "/css/app.6dd0535e.css"
+    "revision": "489c0e412ac453371748",
+    "url": "/css/app.d2036899.css"
   },
   {
-    "revision": "ec6cc37077e08023f24d",
-    "url": "/js/app.e88fb7a4.js"
+    "revision": "489c0e412ac453371748",
+    "url": "/js/app.8d85bebe.js"
   },
   {
     "revision": "9fe55fd6b26bddd358f3",
@@ -3488,7 +3488,7 @@ self.__precacheManifest = [
     "url": "/img/ios-cafe.89e90031.svg"
   },
   {
-    "revision": "e844447d3de08e066aa986bb4a15951c",
+    "revision": "6e0066f1d9b451dff56d997b81b2d0c7",
     "url": "/index.html"
   },
   {
